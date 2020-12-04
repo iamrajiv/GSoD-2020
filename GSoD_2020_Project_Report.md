@@ -145,9 +145,7 @@ _All dates and times are in Indian Standard Time (IST)._
 
 ## Future Works
 
-- Rewriting the README with a better intro and examples.
 - Improving the contributor’s guide
-- Writing a v2.0.0 migration guide.
 - Solving [documentation related issues](https://github.com/grpc-ecosystem/grpc-gateway/issues?q=is%3Aopen+is%3Aissue+label%3Adocumentation).
 
 ## Learnings
