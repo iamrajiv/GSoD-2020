@@ -19,9 +19,9 @@ Final Work Product: [https://grpc-ecosystem.github.io/grpc-gateway/](https://grp
 
 Mentors:
 
-[Andrew Z Allen](https://github.com/achew22)
-
 [Johan Brandhorst-Satzkorn](https://github.com/johanbrandhorst)
+
+[Andrew Z Allen](https://github.com/achew22)
 
 The report presents the results of the gRPC-Gateway project completed during the 2020 Google
 Season of Docs. The status of the project can be regarded as complete due to the fact that all pull requests have been merged and all the initial premises of the project have been fulfilled.
