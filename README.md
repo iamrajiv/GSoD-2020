@@ -2,7 +2,7 @@
 <img src="assets/logo.svg" />
 <br />
 <h1>gRPC-Gateway</h1>
-<h3 align="center">
+<h3>
 Refactoring the Existing Docs Site of gRPC-Gateway
 </h3>
 <a href="https://github.com/iamrajiv/GSoD-2020/network/members"><img src="https://img.shields.io/github/forks/iamrajiv/GSoD-2020?color=f2bd42&style=for-the-badge" /></a>
