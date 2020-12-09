@@ -2,7 +2,7 @@
 <img src="assets/logo.svg" />
 <br />
 <h1>gRPC-Gateway</h1>
-<h3 align="center">
+<h3>
 Refactoring the Existing Docs Site of gRPC-Gateway
 <br />
 Project Report
