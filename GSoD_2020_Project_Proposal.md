@@ -11,4 +11,4 @@ Project Proposal
 
 ## Original Project Proposal
 
-[Original Project Proposal](https://developers.google.com/season-of-docs/docs/participants/project-grpcgateway-iamrajiv).
+[Original Project Proposal](https://developers.google.com/season-of-docs/docs/2020/participants/project-grpcgateway-iamrajiv).
