@@ -5,9 +5,9 @@
 <h3>
 Refactoring the Existing Docs Site of gRPC-Gateway
 </h3>
-<a href="https://github.com/iamrajiv/GSoD-2020/network/members"><img src="https://img.shields.io/github/forks/iamrajiv/GSoD-2020?color=f2bd42&style=for-the-badge" /></a>
-<a href="https://github.com/iamrajiv/GSoD-2020/stargazers"><img src="https://img.shields.io/github/stars/iamrajiv/GSoD-2020?color=f2bd42&style=for-the-badge" /></a>
-<a href="https://github.com/iamrajiv/GSoD-2020/blob/master/LICENSE"><img src="https://img.shields.io/github/license/iamrajiv/GSoD-2020?color=f2bd42&style=for-the-badge" /></a>
+<a href="https://github.com/iamrajiv/GSoD-2020/network/members"><img src="https://img.shields.io/github/forks/iamrajiv/GSoD-2020?color=0366d6&style=for-the-badge" /></a>
+<a href="https://github.com/iamrajiv/GSoD-2020/stargazers"><img src="https://img.shields.io/github/stars/iamrajiv/GSoD-2020?color=0366d6&style=for-the-badge" /></a>
+<a href="https://github.com/iamrajiv/GSoD-2020/blob/master/LICENSE"><img src="https://img.shields.io/github/license/iamrajiv/GSoD-2020?color=0366d6&style=for-the-badge" /></a>
 </div>
 
 ## Table Of Contents
