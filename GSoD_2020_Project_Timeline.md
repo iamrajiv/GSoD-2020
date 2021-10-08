@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/gsod-2020.svg" height= "auto" width="400" />
+<img src="assets/gsod-2020.svg" height="auto" width="400" />
 <br />
 <h1>gRPC-Gateway</h1>
 <h3>

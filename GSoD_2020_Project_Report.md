@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/gsod-2020.svg" height= "auto" width="400" />
+<img src="assets/gsod-2020.svg" height="auto" width="400" />
 <br />
 <h1>gRPC-Gateway</h1>
 <h3>
@@ -12,11 +12,6 @@ Project Report
 ## Introduction
 
 This is the project report for **Refactoring the Existing Docs Site of gRPC-Gateway** which was completed during Google Season of Docs 2020. The status of the project can be regarded as complete due to the fact that all pull requests have been merged and all the initial premises of the project have been fulfilled.
-
-Mentors:
-
-[Johan Brandhorst-Satzkorn](https://github.com/johanbrandhorst)
-[Andrew Z Allen](https://github.com/achew22)
 
 Final Work Product: [https://grpc-ecosystem.github.io/grpc-gateway/](https://grpc-ecosystem.github.io/grpc-gateway/)
 
