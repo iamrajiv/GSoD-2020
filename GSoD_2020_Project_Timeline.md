@@ -14,7 +14,7 @@ Project Timeline
 - Bi-weekly meeting schedule agreed.
 - gRPC-Gateway slack channel invite has been arranged.
 - Focus in the first three weeks before the start of the project will be on:
-  - Working through existing documentation and note gaps areas.
+  - Working through existing documentation and noting gaps areas.
   - Putting together a timeline for the three months of the project, with weekly milestones.
 
 ## Doc Development Phase
@@ -82,7 +82,7 @@ Project Timeline
 
 ### Week 12 (September 30 - December 5, 2020):
 
-- Finalizing the project deliverables and refactor the code if any, based on the feedback.
+- Finalizing the project deliverables and refactoring the code if any, based on the feedback.
 - Making the project report and requesting mentors to review the project report.
 - Finalizing and submitting the project report.
 - Submitting the evaluation of the project and the experience working with the mentors.

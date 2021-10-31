@@ -22,7 +22,7 @@ Final Work Product: [https://grpc-ecosystem.github.io/grpc-gateway/](https://grp
 - Bi-weekly meeting schedule agreed.
 - gRPC-Gateway slack channel invite was arranged.
 - Focus in the first three weeks before the start of the project was on:
-  - Working through existing documentation and note gaps areas.
+  - Working through existing documentation and noting gaps areas.
   - Putting together a timeline for the three months of the project, with weekly milestones.
 
 ### Doc Development Phase
@@ -83,21 +83,21 @@ Final Work Product: [https://grpc-ecosystem.github.io/grpc-gateway/](https://grp
 #### Week 11 (November 23 - November 29, 2020):
 
 - Added more FAQ entries.
-- Added new architecture introduction diagram and removing the old one.
+- Added a new architecture introduction diagram and removed the old one.
 - Checked and fixed indentations, grammatical errors, typographical errors, and broken links across all the files including both previous and new documentations.
 
 ### Project Finalization Phase
 
 #### Week 12 (September 30 - December 5, 2020):
 
-- Finalized the project deliverables and refactor the code if any, based on the feedback.
+- Finalized the project deliverables and refactored the code if any, based on the feedback.
 - Made the project report and requested mentors to review the project report.
 - Finalized and submitted the project report.
 - Submitted the evaluation of the project and the experience working with the mentors.
 
 ## Pull Requests Merged
 
-My mentors suggested me to work on my gRPC-Gateway fork and make all the changes there and make pull request after I got a large number of changes rather than making a separate pull request for every change.
+My mentors suggested I work on my gRPC-Gateway fork and make all the changes there and make pull requests after I got a large number of changes rather than making a separate pull request for every change.
 
 These are my pull request which holds all my project deliverables:
 
