@@ -7,7 +7,7 @@ Refactoring the Existing Docs Site of gRPC-Gateway
 </h3>
 <a href="https://github.com/iamrajiv/GSoD-2020/network/members"><img src="https://img.shields.io/github/forks/iamrajiv/GSoD-2020?color=0969da&style=for-the-badge" height="auto" width="auto" /></a>
 <a href="https://github.com/iamrajiv/GSoD-2020/stargazers"><img src="https://img.shields.io/github/stars/iamrajiv/GSoD-2020?color=0969da&style=for-the-badge" height="auto" width="auto" /></a>
-<a href="https://github.com/iamrajiv/GSoD-2020/blob/master/LICENSE"><img src="https://img.shields.io/github/license/iamrajiv/GSoD-2020?color=0969da&style=for-the-badge" height="auto" width="auto" /></a>
+<a href="https://github.com/iamrajiv/GSoD-2020/blob/main/LICENSE"><img src="https://img.shields.io/github/license/iamrajiv/GSoD-2020?color=0969da&style=for-the-badge" height="auto" width="auto" /></a>
 </div>
 
 ## About
@@ -22,4 +22,4 @@ This repository contains details about my work in Google Season of Docs 2020. I 
 
 ## License
 
-[MIT](https://github.com/iamrajiv/GSoD-2020/blob/master/LICENSE)
+[MIT](https://github.com/iamrajiv/GSoD-2020/blob/main/LICENSE)
