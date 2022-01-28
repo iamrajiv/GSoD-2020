@@ -139,7 +139,7 @@ All dates and times are in Indian Standard Time (IST) with a time offset of UTC+
 
 ## Learnings
 
-I am very glad that I had the opportunity to take part in the Google Season of Docs program project. Participating in this program has helped me to:
+I am very glad that I had the opportunity to take part in the Google Season of Docs program. Participating in this program has helped me to:
 
 - Got involved with an amazing community i.e. gRPC-Gateway.
 - Learned about gRPC and gRPC-Gateway.
