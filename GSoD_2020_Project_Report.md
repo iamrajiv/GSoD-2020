@@ -134,7 +134,7 @@ All dates and times are in Indian Standard Time (IST) with a time offset of UTC+
 
 ## Future Works
 
-- Improving the contributor’s guide
+- Improving the contributor’s guide.
 - Solving [documentation related issues](https://github.com/grpc-ecosystem/grpc-gateway/issues?q=is%3Aopen+is%3Aissue+label%3Adocumentation).
 
 ## Learnings
