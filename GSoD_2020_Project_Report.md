@@ -132,11 +132,6 @@ Works that are not yet added or not sure to be added are:
 
 All dates and times are in Indian Standard Time (IST) with a time offset of UTC+05:30.
 
-## Future Works
-
-- Improving the contributor’s guide.
-- Solving [documentation related issues](https://github.com/grpc-ecosystem/grpc-gateway/issues?q=is%3Aopen+is%3Aissue+label%3Adocumentation).
-
 ## Learnings
 
 I am very glad that I had the opportunity to take part in the Google Season of Docs program. Participating in this program has helped me to:
