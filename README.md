@@ -22,6 +22,7 @@ This repository contains details about my work in Google Season of Docs 2020. I 
 
 ## References
 
+- [Google Season of Docs 2020 Blog](https://iamrajiv.github.io/posts/google-season-of-docs-2020/)
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway)
 - [gRPC-Gateway Docs Site](https://grpc-ecosystem.github.io/grpc-gateway/)
 - [Successful 2020 Season of Docs technical writing projects](https://developers.google.com/season-of-docs/docs/2020/participants)
