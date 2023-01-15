@@ -13,7 +13,7 @@ Project Report
 
 This is the project report for **Refactoring the Existing Docs Site of gRPC-Gateway** which was completed during Google Season of Docs 2020. The status of the project can be regarded as complete due to the fact that all pull requests have been merged and all the initial premises of the project have been fulfilled.
 
-Final Work Product: [https://grpc-ecosystem.github.io/grpc-gateway/](https://grpc-ecosystem.github.io/grpc-gateway/)
+The final work product can be found at [https://grpc-ecosystem.github.io/grpc-gateway/](https://grpc-ecosystem.github.io/grpc-gateway/).
 
 ## Work Summary
 

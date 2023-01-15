@@ -9,6 +9,6 @@ Project Proposal
 </h3>
 </div>
 
-## GSoD 2020 Project Proposal
+## Project Proposal
 
 [GSoD 2020 Project Proposal](https://developers.google.com/season-of-docs/docs/2020/participants/project-grpcgateway-iamrajiv).
