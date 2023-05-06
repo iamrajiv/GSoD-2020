@@ -12,7 +12,7 @@ Refactoring the Existing Docs Site of gRPC-Gateway
 
 ## About
 
-This repository contains details about my work in Google Season of Docs 2020. I participated with gRPC-Gateway, and my project was on **Refactoring the Existing Docs Site of gRPC-Gateway**.
+This repository contains information about my work in the Google Season of Docs 2020. I participated with gRPC-Gateway, and my project was on Refactoring the Existing Docs Site of gRPC-Gateway.
 
 ## Table Of Contents
 
